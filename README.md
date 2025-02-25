@@ -1,2 +1,1 @@
-# go-tcp-tunnel
-tcp tunnel forwarding
+# tcp tunnel forwarding
